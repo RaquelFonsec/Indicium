@@ -10,7 +10,7 @@ Clone o repositório e instale os pacotes necessários:
 ```bash
 git clone https://github.com/RaquelFonsec/Indicium2.git
 cd Indicium2
-pip install -r requisitos.txt
+pip install -r requirements.txt
 
 
 
