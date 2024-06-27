@@ -60,6 +60,7 @@ Este projeto oferece uma análise completa e preditiva para entender e prever o 
 
 Para mais detalhes, consulte o caderno Indicium(1).ipynb os resultados detalhados das análises estatísticas e preditivas.
 
-(https://colab.research.google.com/github/RaquelFonsec/Indicium2/blob/main/Indicium.ipynb)
+[Link para o Notebook no Google Colab](https://colab.research.google.com/github/RaquelFonsec/Indicium2/blob/main/Indicium.ipynb)
+
 
 
