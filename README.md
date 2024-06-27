@@ -59,3 +59,7 @@ O modelo anterior à nota do IMDb para ‘The Shawshank Redemption’ como 9.30,
 Este projeto oferece uma análise completa e preditiva para entender e prever o sucesso de filmes, utilizando técnicas avançadas de análise de dados. A análise exploratória fornece insights profundos e a modelagem preditiva recomenda estratégias para futuros desenvolvimentos cinematográficos.
 
 Para mais detalhes, consulte o caderno Indicium(1).ipynb os resultados detalhados das análises estatísticas e preditivas.
+
+(https://colab.research.google.com/github/RaquelFonsec/Indicium2/blob/main/Indicium.ipynb)
+
+
